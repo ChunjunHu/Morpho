@@ -18,15 +18,17 @@ In the Colab environment, the program will automatically install the correct lib
 # Dataset and Network
 ## Dataset
 Our dataset has a total of 899 different categories of sneakers, and each category has about 50 to 80 different images, a total of 52,736 images.
+
 ![image](https://github.com/ChunjunHu/Morpho/blob/dev/IMG/datasetVisualization.png)
 
 ## Network
 ### Binary Classification
+
 ![image](https://github.com/ChunjunHu/Morpho/blob/dev/IMG/binaryClassificationStructure.png)
+
 ### BigGAN
+
 ![image](https://github.com/ChunjunHu/Morpho/blob/dev/IMG/networkStructure.png)
-
-
 
 # Instruction of binary classification for data cleaning
 
