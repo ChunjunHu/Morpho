@@ -39,7 +39,7 @@ We use binary classification for data cleaning to obtain a more accurate dataset
 3. Use the high-precision model to cleaning you whole dataset.
 4. **Tips:** we recommed you that run `dataPreprocessing.py` before install your dataset. It can extract pictures in subfolders, convert them to RGB format, and save all pictures in the same folder. In the process, it can delete damaged pictures and skip pictures that cannot be read correctly.
 
-# Instructiion of BigGan
+# Instructiion of BigGAN
 
 The code about BigGan, we stored them under the `./BigGan`. This program can realize real-time sampling visualization output, save the trained models of the last 5 epochs, continue training, output tensorboard files and other functions.
 
