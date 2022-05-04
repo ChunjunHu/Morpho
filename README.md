@@ -17,7 +17,7 @@ In the Colab environment, the program will automatically install the correct lib
 ```
 # Dataset and Network
 ## Dataset
-Our dataset has a total of 899 different categories of sneakers, and each category has about 50 to 80 different images, a total of 52,736 images.
+Our dataset has a total of 899 different categories of sneakers, and each category has about 50 to 80 different images, a total of 52,736 images. The dataset we created and used has been published on Kaggle: https://www.kaggle.com/datasets/huchunjun/sneaker899-classificationtotal-50000-images. If the link does not work, please use the alternate link: https://drive.google.com/drive/folders/1bZn-gJ72Lsc0o39HDu4n_RnM_h86yCk-?usp=sharing.
 
 ![image](https://github.com/ChunjunHu/Morpho/blob/dev/IMG/datasetVisualization.png)
 
