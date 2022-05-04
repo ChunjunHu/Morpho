@@ -4,6 +4,8 @@ Morpho is a set of python tools that allows one to create synthetic data using s
 
 The name comes from morpho butterflies, which comprise many species of Neotropical butterfly under the genus Morphoare and are some of the of the most social insects in the animal kingdom.
 
+![image](https://github.com/ChunjunHu/Morpho/blob/dev/IMG/BigGANResults.png)
+
 # Lab Environment
 **Lab Environment:**
 In the Colab environment, the program will automatically install the correct libraries.
@@ -14,7 +16,16 @@ In the Colab environment, the program will automatically install the correct lib
     OS: Colab
 ```
 # Dataset and Network
+## Dataset
 Our dataset has a total of 899 different categories of sneakers, and each category has about 50 to 80 different images, a total of 52,736 images.
+![image](https://github.com/ChunjunHu/Morpho/blob/dev/IMG/datasetVisualization.png)
+
+## Network
+### Binary Classification
+![image](https://github.com/ChunjunHu/Morpho/blob/dev/IMG/binaryClassificationStructure.png)
+### BigGAN
+![image](https://github.com/ChunjunHu/Morpho/blob/dev/IMG/networkStructure.png)
+
 
 
 # Instruction of binary classification for data cleaning
