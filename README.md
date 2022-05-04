@@ -4,7 +4,7 @@ Morpho is a set of python tools that allows one to create synthetic data using s
 
 The name comes from morpho butterflies, which comprise many species of Neotropical butterfly under the genus Morphoare and are some of the of the most social insects in the animal kingdom.
 
-![image](https://github.com/ChunjunHu/Morpho/blob/dev/IMG/BigGANResults.png)
+![image](https://github.com/daydayup-hb-cj/Morpho/blob/main/IMG/BigGANResults.png)
 
 # Lab Environment
 **Lab Environment:**
@@ -19,16 +19,16 @@ In the Colab environment, the program will automatically install the correct lib
 ## Dataset
 Our dataset has a total of 899 different categories of sneakers, and each category has about 50 to 80 different images, a total of 52,736 images. The dataset we created and used has been published on Kaggle: https://www.kaggle.com/datasets/huchunjun/sneaker899-classificationtotal-50000-images. If the link does not work, please use the alternate link: https://drive.google.com/drive/folders/1bZn-gJ72Lsc0o39HDu4n_RnM_h86yCk-?usp=sharing.
 
-![image](https://github.com/ChunjunHu/Morpho/blob/dev/IMG/datasetVisualization.png)
+![image](https://github.com/daydayup-hb-cj/Morpho/blob/main/IMG/datasetVisualization.png)
 
 ## Network
 ### Binary Classification
 
-![image](https://github.com/ChunjunHu/Morpho/blob/dev/IMG/binaryClassificationStructure.png)
+![image](https://github.com/daydayup-hb-cj/Morpho/blob/main/IMG/binaryClassificationStructure.png)
 
 ### BigGAN
 
-![image](https://github.com/ChunjunHu/Morpho/blob/dev/IMG/networkStructure.png)
+![image](https://github.com/daydayup-hb-cj/Morpho/blob/main/IMG/networkStructure.png)
 
 # Instruction of binary classification for data cleaning
 
