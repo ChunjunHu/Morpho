@@ -47,7 +47,7 @@ The code about BigGan, we stored them under the `./BigGan`. This program can rea
 4. After training to achieve better results, try semi-supervised models and improve BigGAN.
 
 # Reference
-[1] Brock, A., Donahue, J., & Simonyan, K. (2018). Large scale GAN training for high fidelity natural image synthesis. arXiv preprint arXiv:1809.11096.
+[1] Brock, A., Donahue, J., & Simonyan, K. (2018). Large scale GAN training for high fidelity natural image synthesis. arXiv preprint arXiv:1809.11096.<br>
 [2] Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). Generative adversarial nets. Advances in neural information processing systems, 27.
 [3] Li, H.-T., Yang, W.-H., & Chiang, C.-K. (2020). Outside the box: New style discovering via    Generative Adversarial Network for shoes design. 2020 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-Taiwan). https://doi.org/10.1109/icce-taiwan49838.2020.9258223 
 [4] Heusel, M., Ramsauer, H., Unterthiner, T., Nessler, B., & Hochreiter, S. (2017). Gans trained by a two time-scale update rule converge to a local nash equilibrium. Advances in neural information processing systems, 30.
