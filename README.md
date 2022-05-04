@@ -48,12 +48,12 @@ The code about BigGan, we stored them under the `./BigGan`. This program can rea
 
 # Reference
 [1] Brock, A., Donahue, J., & Simonyan, K. (2018). Large scale GAN training for high fidelity natural image synthesis. arXiv preprint arXiv:1809.11096.<br>
-[2] Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). Generative adversarial nets. Advances in neural information processing systems, 27.
-[3] Li, H.-T., Yang, W.-H., & Chiang, C.-K. (2020). Outside the box: New style discovering via    Generative Adversarial Network for shoes design. 2020 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-Taiwan). https://doi.org/10.1109/icce-taiwan49838.2020.9258223 
-[4] Heusel, M., Ramsauer, H., Unterthiner, T., Nessler, B., & Hochreiter, S. (2017). Gans trained by a two time-scale update rule converge to a local nash equilibrium. Advances in neural information processing systems, 30.
-[5] Taki0112 (2019) BigGAN-Tensorflow [Source code]. https://github.com/taki0112/BigGAN-Tensorflow.
-[6] Kingma, D. P., Salimans, T., Jozefowicz, R., Chen, X., Sutskever, I., & Welling, M. (2016). Improved variational inference with inverse autoregressive flow. Advances in neural information processing systems, 29.
-[7] Salimans, T., Goodfellow, I., Zaremba, W., Cheung, V., Radford, A., & Chen, X. (2016). Improved techniques for training gans. Advances in neural information processing systems, 29.
+[2] Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). Generative adversarial nets. Advances in neural information processing systems, 27.<br>
+[3] Li, H.-T., Yang, W.-H., & Chiang, C.-K. (2020). Outside the box: New style discovering via    Generative Adversarial Network for shoes design. 2020 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-Taiwan). https://doi.org/10.1109/icce-taiwan49838.2020.9258223 <br>
+[4] Heusel, M., Ramsauer, H., Unterthiner, T., Nessler, B., & Hochreiter, S. (2017). Gans trained by a two time-scale update rule converge to a local nash equilibrium. Advances in neural information processing systems, 30.<br>
+[5] Taki0112 (2019) BigGAN-Tensorflow [Source code]. https://github.com/taki0112/BigGAN-Tensorflow.<br>
+[6] Kingma, D. P., Salimans, T., Jozefowicz, R., Chen, X., Sutskever, I., & Welling, M. (2016). Improved variational inference with inverse autoregressive flow. Advances in neural information processing systems, 29.<br>
+[7] Salimans, T., Goodfellow, I., Zaremba, W., Cheung, V., Radford, A., & Chen, X. (2016). Improved techniques for training gans. Advances in neural information processing systems, 29.<br>
 
 
 
